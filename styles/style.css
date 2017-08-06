@@ -1,0 +1,38 @@
+html {
+    font-size: 10px;
+    font-family: 'Catamaran', sans-serif;
+    background-color: #D8DED2;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Chewy', cursive;
+    margin: 0;
+    padding: 20px 0;
+    color: #D8DED2;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #3FBFAE;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: auto;
+    max-width: 550px;
+    max-height: 200px;
+}
